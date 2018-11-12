@@ -57,9 +57,9 @@
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} n'a trouvé aucun obus disponible à proximité pour {GUN_label}.</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
-  <MessageAnimalsGoPsychoHunted>Attention : les {ANIMAL_kindBasePlural} ont {1} chance d'attaquer si vous les blessez. Cette chance augmente avec la proximité, et diminue avec une bonne furtivité du chasseur.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Attention : les {ANIMAL_kindBasePlural} ont {1} de chances d'attaquer si vous les blessez. Cette chance augmente avec la proximité, et diminue avec une bonne furtivité du chasseur.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Attention : les {ANIMAL_kindBasePlural} vont souvent attaquer après l'échec d'un apprivoisement ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Attention : les {ANIMAL_kindBasePlural} peuvent attaquer si l'apprivoisement échoue ({1} de chances).</MessageAnimalManhuntsOnTameFailed>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Nouvelle recrue</LetterLabelMessageRecruitSuccess>
@@ -403,10 +403,10 @@
   <MessageWarningCavePlantsExposedToLight>ATTENTION : {0} ne peut pas survivre si exposé à la lumière.</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} ne réussissant pas à atteindre {OLDTARGET_label},ainsi {PAWN_pronoun} décida de recentrer sa fureur sur {TARGET_label}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} n'a pas réussi à atteindre {OLDTARGET_label} alors {PAWN_pronoun} a décidé de recentrer sa fureur sur {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} ne parvenant pas à atteindre {OLDTARGET_label},ainsi {PAWN_pronoun} a décidé de rediriger sa colère vers {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} n'a pas réussi à atteindre {OLDTARGET_label} alors {PAWN_pronoun} a décidé de rediriger sa colère vers {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
   <MessageMurderousRageChangedTarget>{PAWN_labelShort} a décidé de rediriger son envie de meurtre vers {TARGET_label}.</MessageMurderousRageChangedTarget>
