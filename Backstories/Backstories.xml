@@ -869,7 +869,6 @@
     <!-- EN: sniper -->
     <titleShort>tireur d'élite</titleShort>
     <titleShortFemale>tireuse d'élite</titleShortFemale>
-    <!-- TODO : "la frontière (de quoi?)"-->
     <!-- EN: [PAWN_nameDef]'s peaceful life was cut short when [PAWN_possessive] country was brutally invaded.\n\n[PAWN_nameDef] was drafted into service as soon as [PAWN_pronoun] was of legal age, and quickly showed an aptitude for rifles. [PAWN_pronoun] spent months living in the forests picking off soldiers who dared cross the border. -->
     <desc>La vie paisible de [PAWN_nameDef] a été interrompue lorsque son pays a été brutalement envahi.\n\n[PAWN_nameDef] a été enrôl{PAWN_gender ? é : ée} dès sa majorité, et a rapidement démontré une aptitude pour les fusils. [PAWN_pronoun] a passé des mois à vivre dans les forêts, fauchant les soldats qui osaient franchir la frontière.</desc>
   </BushSniper94>
@@ -3055,16 +3054,13 @@
   
   <IndustrialOrphan13>
     <!-- EN: industrial orphan -->
-    <!-- TODO : "orphelin d'un monde industriel" trop long
-      Si possible, indiquer la qualification "industrial" ?
-    -->
-    <title>orphelin</title>
-    <titleFemale>orpheline</titleFemale>
+    <title>orphelin moderne</title>
+    <titleFemale>orpheline moderne</titleFemale>
     <!-- EN: orphan -->
     <titleShort>orphelin</titleShort>
     <titleShortFemale>orpheline</titleShortFemale>
     <!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
-    <desc>[PAWN_nameDef] n'a jamais connu ses parents. Ses plus lointains souvenirs sont les corvées de la mine et les maisons de correction de son monde à l'âge industriel.\n\nÀ cause de cela, [PAWN_pronoun] n'a jamais reçu d'éducation convenable.</desc>
+    <desc>[PAWN_nameDef] n'a jamais connu ses parents. Ses plus lointains souvenirs sont les corvées de la mine et les maisons de correction de son monde industriel.\n\nÀ cause de cela, [PAWN_pronoun] n'a jamais reçu d'éducation convenable.</desc>
   </IndustrialOrphan13>
   
   <IndworldUrchin73>
@@ -3896,8 +3892,7 @@
   
   <MilitaryCommissar49>
     <!-- EN: military commissar -->
-    <!-- TODO commissaire des armées -->
-    <title>commissaire militaire</title>
+    <title>commissaire politique</title>
     <!-- EN: commissar -->
     <titleShort>commissaire</titleShort>
     <!-- EN: [PAWN_nameDef] was an internal spymaster in an Imperial army battalion. [PAWN_pronoun] made sure that the men were loyal, and did not fall back unless ordered. This made [PAWN_objective] unpopular, but [PAWN_pronoun] gained great skill at detecting the slightest dishonesty. -->
