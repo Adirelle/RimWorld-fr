@@ -166,7 +166,7 @@
   <Slighted.stages.slighted.label>offensé(e)</Slighted.stages.slighted.label>
   
   <!-- EN: bonded animal sold -->
-  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>l'animal que j'adorais {0} a été vendu</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
+  <SoldMyBondedAnimal.stages.bonded_animal_sold.label>l'animal que j'adorais a été vendu par {0}</SoldMyBondedAnimal.stages.bonded_animal_sold.label>
   <!-- EN: My special bonded animal was sold to a trader! -->
   <SoldMyBondedAnimal.stages.bonded_animal_sold.description>Mon animal adoré a été vendu à un marchand !</SoldMyBondedAnimal.stages.bonded_animal_sold.description>
   <!-- EN: sold my bonded animal -->
